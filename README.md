@@ -15,9 +15,9 @@ outdoorsmap = https://api.tiles.mapbox.com id: "mapbox.outdoors
 satellitemap = https://api.tiles.mapbox.com id: "mapbox.satellite 
 grayscalemap = https://api.tiles.mapbox.com id: "mapbox.light 
 
-![1-Map](Images/220-05-30GreyscaleMap.png)
-![2-Map](Images/220-05-30OutdoorMap.png)
-![3-Map](Images/220-05-30SatelliteMap.png)
+https://github.com/lorettac953/leaflet-challenge/blob/master/Leaflet_Challenge/Images/2020-05-30%20Greyscale%20Map.png
+https://github.com/lorettac953/leaflet-challenge/blob/master/Leaflet_Challenge/Images/2020-05-30%20Outdoor%20Map.png
+https://github.com/lorettac953/leaflet-challenge/blob/master/Leaflet_Challenge/Images/2020-05-30%20Satellite%20Map.png
 
 Please see Images folder (inside the Leaflet CHallenge folder) for snapshots of the live data.
 
